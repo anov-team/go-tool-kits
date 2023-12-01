@@ -1,11 +1,15 @@
 # go-tool-kits
 
 ## 介绍
-anov-go平台工具包，支持go平台私有化部署包快速预览，在线API MOCK服务等。
+#### 私有化部署包预览方式：
+
+1. 需要自行安装http代理服务器，如：Apache、Lighttpd、Tomcat、WebSphere、IIS、Nginx、Caddy、OpenLiteSpeed、NodeJS等。
+
+2. 使用anov-go平台工具包，启用独立隔离环境，支持go平台私有化部署包快速预览，在线API MOCK服务等。
 
 ## 示例DEMO
 <p align="left">    
-    <img src="./public/go-tool-kits.gif" width="600" />
+    <img src="/public/go-tool-kits.gif" width="600" />
 </p>
 
 ## 安装教程
