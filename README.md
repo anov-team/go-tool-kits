@@ -6,7 +6,7 @@ anov-go平台工具包，支持go平台私有化部署包快速预览，在线AP
 ## 示例DEMO
 
 <p align="left">    
-    <img src="https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.gif"  width="800" />
+    <img src="./public/go-tool-kits.gif"  width="800" />
 </p>
 
 ## 安装教程
@@ -32,7 +32,7 @@ anov-go平台工具包，支持go平台私有化部署包快速预览，在线AP
 ## 使用说明
 
 #### 视频演示
-[go-tool-kits视频演示](https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.mp4)
+[go-tool-kits视频演示](./public/go-tool-kits.mp4)
 
 <video src="https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.mp4" controls="controls" width="600" loop  autoplay></video>
 
