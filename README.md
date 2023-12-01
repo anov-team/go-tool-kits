@@ -6,7 +6,7 @@ anov-go平台工具包，支持go平台私有化部署包快速预览，在线AP
 ## 示例DEMO
 
 <p align="left">    
-    <img src="https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.gif" width="600" />
+    <img src="https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.gif"  width="800" />
 </p>
 
 ## 安装教程
