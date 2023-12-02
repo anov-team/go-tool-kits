@@ -14,7 +14,7 @@ anov-go平台功能增强工具包
 
 ## 示例DEMO
 <p align="left">    
-    <img src="/public/go-tool-kits.gif" width="600" />
+    <img src="/public/go-tool-kits.gif" width="800" />
 </p>
 
 [go-tool-kits视频演示](https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.mp4)
@@ -30,7 +30,7 @@ anov-go平台功能增强工具包
 ## 安装教程
 ### 1. 环境检查
 - 系统环境：Linux/Mac/Windows
-- 系统版本：Ubuntu 16.04+/Mac OS X EI Capitan/Windows 8.1+
+- 系统版本：Ubuntu 16.04+/Mac OSX 10.12+/Windows 8.1+
 - 系统架构：x86_64/x86/arm64/arm/ppc64le/s390x
 
 ### 2. 安装包下载
@@ -55,7 +55,7 @@ anov-go平台功能增强工具包
 2. 解压私有化部署包
 3. 拖拽或点击解压后的私有化部署包到上传区域
 <p align="left">    
-<img src="https://gitee.com/anov/go-tool-kits/raw/master/public/kit1.png" width="600" />
+<img src="https://gitee.com/anov/go-tool-kits/raw/master/public/kit1.png" width="400" />
 </p>
 
 4. 启动服务，自动打开预览
@@ -68,7 +68,3 @@ ANOV-API 是高效、易用的可视化接口管理 API Mock 服务，通过简�
 2、根据不同入参，返回定制化数据   
 3、支持动态入参，返回动态响应数据    
 4、多人协同管理同一项目接口   
-
-
-
-
