@@ -19,7 +19,7 @@ anov-go平台功能增强工具包
 
 [go-tool-kits视频演示](https://gitee.com/anov/go-tool-kits/raw/master/public/go-tool-kits.mp4)
 
-<video src="/public/go-tool-kits.mp4" controls="controls" width="600" loop  autoplay></video>
+<video src="./public/go-tool-kits.mp4" controls="controls" width="600" loop  autoplay></video>
 
 ### 下载地址
 推荐地址：[国内源-安装包下载](https://gitee.com/anov/go-tool-kits/releases/)  
@@ -45,11 +45,10 @@ anov-go平台功能增强工具包
 
 #### 私有化部署包预览方式
 
-1. 自建服务-技术研发人员
-安装http代理服务器，如：Apache/Lighttpd/Tomcat/WebSphere/IIS/Nginx/Caddy/OpenLiteSpeed/NodeJS等。      
-需自行安装，并进行站点配置，再启动服务。
+1. 自建服务【适合技术研发人员】  
+安装http代理服务器，如：Apache/Lighttpd/Tomcat/WebSphere/IIS/Nginx/Caddy/OpenLiteSpeed/NodeJS等，需自行安装，并进行站点配置，再启动服务。
 
-2. go-tool-kits工具-非技术人员    
+2. go-tool-kits工具【适合非技术人员】  
 使用anov-go平台工具包，快速一键预览，与宿主机环境隔离，安全无污染，即关即停。
 #### 使用步骤
 1. 在平台生成并下载【私有化部署包】
